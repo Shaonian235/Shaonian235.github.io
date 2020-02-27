@@ -1,10 +1,11 @@
 {
-    "name": "jingse",
-    "repo": "jingse.github.io",
-    "client_id": "ee6b810df0dc781657c3",
-    "client_secret": "79e34c623b5c9bac95714adfa8f32a4b4f7bb4a7",
-    "title": "Guihuan's",
-    "instruction": "桂欢的个人博客",
+        
+    "name": "Shaonian235",
+    "repo": "Shaonian235.github.io",
+    "client_id": "41a095630453cf43a132",
+    "client_secret": " f4ccb73f7a9790deb0fcc2ea6452ae35d001b8f9",
+    "title": "Shaonian's",
+    "instruction": "少年的个人博客",
     "server_link": "http://119.23.8.25/gh-oauth-server.php",
     "filter": {
         "creator": "all",
